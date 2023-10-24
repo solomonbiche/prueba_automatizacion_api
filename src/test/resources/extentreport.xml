@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+  <configuration>
+
+    <theme>dark</theme>
+  
+    <encoding>UTF-8</encoding>
+    
+    <protocol>https</protocol>
+    
+    <documentTitle>API-Automation</documentTitle>
+    
+    <reportName>API</reportName>
+    
+    <reportHeadline>Automation Report</reportHeadline>
+    
+    <dateFormat>dd-MM-yyyy</dateFormat>
+    
+    <timeFormat>HH:mm:ss</timeFormat>
+    
+    <scripts>
+      <![CDATA[
+        $(document).ready(function() {});
+      ]]>
+    </scripts>
+    
+    <styles>
+      <![CDATA[
+      ]]>
+    </styles>
+  </configuration>
+</extentreports>
